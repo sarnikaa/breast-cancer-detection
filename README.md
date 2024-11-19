@@ -1,2 +1,2 @@
 # breast-cancer-detection
-Breast Cancer Detection Using Siamese Neural Networks
+Provides optimized performance with data augmentation, oversampling, and hyperparameter tuning using Siamese neural networks.
